@@ -14,5 +14,5 @@ SenseofSecurity
 ##Youtube Demo video
 https://youtu.be/QOMrsIh8jts</br>
 ##DEMO slide
-https://drive.google.com/file/d/0B06hvsz1WlqdRFJOVGU2LWtObDQ/view?usp=sharing
+https://goo.gl/lZWrRa
 
