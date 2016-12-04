@@ -9,7 +9,8 @@
 ##組別</br>
 第三十組-校園友善地圖
 ##APP 名稱</br>
-SenseofSecurity
+SenseofSecurity</br>
+![senseofsecurity](http://imgur.com/UBXOgxS)
 ##組員</br>
 沈冠宇、許瀞予  
 ##Youtube Demo video
