@@ -11,7 +11,7 @@
 SenseofSecurity
 ##組員</br>
 沈冠宇、許瀞予  
-##Youtube Demo video
+##Demo video
 https://youtu.be/QOMrsIh8jts</br>
 ##DEMO slide
 https://goo.gl/lZWrRa
