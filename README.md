@@ -1,6 +1,4 @@
-# SenseofSecurity
-</br>
-##性別暴力防治駭客松
+#性別暴力防治駭客松
 </br>
 ##產品簡介</br>
 以**自製地圖**為出發點，主要分為兩大功能：**(1)友善校園資訊功能 (2)緊急防護功能**，利用此APP串聯學校與學生形成防護網，也讓使用者接收到和以往相比更多的周邊友善資訊。程式中加入了特殊選項和設定安全防護措施，使用者在閱覽地圖的同時,能注意到特殊友善功能並進行操作；除此之外，緊急防護功能也能讓使用者提高警覺，避免危險發生。</br> 
@@ -14,6 +12,7 @@ SenseofSecurity
 ##組員</br>
 沈冠宇、許瀞予  
 ##Youtube Demo video
-https://www.youtube.com/watch?v=QOMrsIh8jts</br>
+https://youtu.be/QOMrsIh8jts</br>
 ##DEMO slide
+https://drive.google.com/file/d/0B06hvsz1WlqdRFJOVGU2LWtObDQ/view?usp=sharing
 
