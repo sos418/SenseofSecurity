@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Sense of Security</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_gender_infor">GenderInforActivity</string>
+    <string name="title_activity_physiological_map">PhysiologicalMapActivity</string>
+    <string name="title_activity_route">RouteActivity</string>
+    <string name="skip">你省略導覽囉!!</string>
+
+
+    <!--側選單-->
+    <string name="friendlymap">友善地圖</string>
+    <string name="physiologicalmap">生理期地圖</string>
+    <string name="genderinformation">友善資訊</string>
+    <string name="soscall">安全電話</string>
+    <string name="sosbell">求救警鈴</string>
+    <string name="nav_subtitle">附屬功能</string>
+    <string name="apprate">APP 評分</string>
+    <string name="setup">APP 設定</string>
+
+</resources>

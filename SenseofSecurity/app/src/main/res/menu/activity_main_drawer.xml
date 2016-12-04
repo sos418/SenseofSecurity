@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_GenderInformation"
+            android:icon="@drawable/ic_genderinformation"
+            android:title="@string/genderinformation" />
+        <item
+            android:id="@+id/nav_SOSCall"
+            android:icon="@drawable/ic_phone_in_talk_black_24dp"
+            android:title="@string/soscall" />
+        <item
+            android:id="@+id/nav_SOSBell"
+            android:icon="@drawable/ic_notifications_active_black_24dp"
+            android:title="@string/sosbell"/>
+    </group>
+
+    <item android:title="@string/nav_subtitle">
+        <menu>
+            <item
+                android:id="@+id/nav_AppRate"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/apprate" />
+            <item
+                android:id="@+id/nav_Setup"
+                android:icon="@drawable/ic_settings_black_24dp"
+                android:title="@string/setup" />
+        </menu>
+    </item>
+
+</menu>
